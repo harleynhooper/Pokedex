@@ -1,0 +1,5 @@
+@startuml
+Bob->Alice:Hello
+Alice->Charlie:Hey
+Charlie<-Alan:Bye
+@enduml
